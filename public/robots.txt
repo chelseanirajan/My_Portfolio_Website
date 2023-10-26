@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: nirajan-karki.clicks
